@@ -1,0 +1,57 @@
+question,answer
+What is Cyber-security?,"Cyber-security is the practice of protecting computer systems, networks, and data from theft, damage, or unauthorized access. It involves safeguarding information that is stored and transmitted electronically."
+What are the goals of cybersecurity?,"The goals of cybersecurity include protecting valuable information and assets from unauthorized access, ensuring data confidentiality, integrity, and availability, and ultimately providing information assurance."
+How is information assurance achieved?,"Information assurance is achieved through ensuring confidentiality, integrity, and availability of information, often referred to as CIA."
+What is confidentiality?,"Confidentiality means the information is kept very secret, private and secure. And only authorized personnel can access it."
+What is Integrity?,"In the context of information assurance, integrity refers to the accuracy, reliability, and consistency of confidential information. It means that the information has not been altered or tampered with in any unauthorized way."
+What is Availability?,"Availability in the context of information assurance refers to ensuring that authorized users have access to information and resources when needed. It involves maintaining the availability of systems, data, and services to prevent disruptions or downtime that could impact operations."
+What is cyber-attack?,"A cyber-attack is an attempt to steal data or cause harm to a computer, network, or device."
+What is a cyber threat?,A cyber threat is an attack or a piece of malware that is designed to cause harm to a target. It can be in the form of software or malicious content that disrupts Internet access or other activities.
+What is cyber Vulnerability?,Cyber Vulnerability refers to weaknesses in a system or environment that can be exploited by attackers to compromise the security of the system or cause harm.
+What is Cyber Exploit and cyber-risk?,"Cyber exploit refers to a method by which an attacker can exploit weak points in a system or environment, posing a risk to information. This risk is known as cyber-risk, which involves calculating the probability of threats, vulnerabilities, or exploits occurring."
+What is Denial-of-service attack (DOS attack)?,"A Denial-of-Service (DOS) attack is a cyber-attack where a flood of fake or overwhelming requests is sent to a website or server, making it so busy that it can't serve legitimate users, causing it to crash or become inaccessible. It's like jamming the door of a store, making it impossible for others to enter and do their shopping."
+How can cybersecurity threats be classified?,"Cybersecurity threats can be classified into various categories based on the nature of the threat. Some common classifications include:
+
+1. Compromises to intellectual properties - such as piracy and copyright infringement.
+2. Deviations in quality of service - like internet service provider (ISP) or WAN service problems or power outages.
+3. Espionage or trespass - involving unauthorized access or data collection.
+4. Forces of nature - including threats like fire, floods, lightning, or earthquakes.
+5. Human error or failure - encompassing accidents or employee mistakes.
+6. Information extortion - like blackmail or unauthorized information disclosure.
+7. Sabotage or vandalism - involving the destruction of systems or information.
+8. Software attacks - such as viruses, worms, macros, or denial of service attacks.
+9. Hardware failures - like equipment malfunctions.
+10. Software failures - including bugs, code problems, or unknown loopholes.
+11. Technological obsolescence - dealing with antiquated or outdated technologies.
+12. Thefts - involving the illegal confiscation of equipment or information.
+
+These classifications help in understanding and addressing different types of cybersecurity threats effectively."
+What are the examples of cyber-attacks?,"Some examples of cyber-attacks include malware, worms, and denial of service attacks."
+What is the probability of occurrence of attack. And what could be the impact?,"The probability of a cyber-attack occurring can vary depending on various factors such as the organization's security measures, industry, and current threat landscape. The impact of a cyber-attack can range from financial losses, reputational damage, data breaches, operational disruptions, and legal consequences. To determine the specific probability and impact for a particular organization, a risk assessment using tools like a risk matrix and considering cybersecurity terminology like IAAA (Identification, Authentication, Authorization, and Accountability) would be necessary."
+What is IAAA?,"IAAA stands for Identification, Authentication, Authorization, and Accountability. It is a framework used in cybersecurity to ensure that individuals are properly identified, verified, granted appropriate access, and held accountable for their actions within a system."
+How can we ensure accountability in the system?,"Accountability can be ensured in the system by implementing user logins that are recorded, allowing organizations to track who is responsible for specific tasks or actions that may cause harm or pose a threat to other elements within the system. This tracking of user activity helps establish accountability."
+What is Malware?,"Malware is like a sneaky digital bug that infects your device without permission. It can cause all sorts of trouble, like stealing your information, messing up your files, or even taking control of your computer."
+What are the different types of malwares?,"The different types of malwares include viruses, worms, and keyloggers."
+How can we protect our information?,"To protect your information, it is important to go beyond just installing antivirus software. Here are some additional steps you can take:
+
+1. **Use strong, unique passwords:** Create complex passwords for your accounts and avoid using the same password for multiple accounts.
+
+2. **Enable two-factor authentication:** Add an extra layer of security to your accounts by enabling two-factor authentication where available.
+
+3. **Keep software updated:** Regularly update your operating system, software, and apps to patch any security vulnerabilities.
+
+4. **Be cautious with email and links:** Avoid clicking on suspicious links or downloading attachments from unknown sources.
+
+5. **Secure your network:** Use a firewall, secure your Wi-Fi network with a strong password, and consider using a virtual private network (VPN) for added security.
+
+6. **Backup your data:** Regularly backup your important files to an external hard drive or cloud storage to prevent data loss in case of a security breach.
+
+7. **Educate yourself:** Stay informed about the latest cybersecurity threats and best practices to protect yourself online.
+
+By following these steps in addition to having antivirus software, you can better protect your information from hacking and unauthorized access."
+What is Social Engineering?,"Social engineering in cybersecurity is like a digital con game. Instead of using fancy hacking tools, cybercriminals use tricks and manipulation to deceive people into giving away sensitive information or doing something they shouldn't, like clicking on a harmful link or sharing their passwords. It's all about exploiting human trust rather than technical vulnerabilities. So social engineering method includes phishing, spear phishing, vishing, and smishing."
+What is Phishing?,"Phishing is a type of fraud attempt where attackers try to manipulate people into giving important information, such as passwords or financial details, usually through emails or phone calls."
+How can Phishing be identified?,"Phishing can be identified by checking the email address and domain of the sender to see if it is from a trusted source. If an email looks like a scam, with promises of money or prizes, it is important to verify its authenticity before clicking on any links or attachments. If in doubt, it is best to report the suspicious email to the relevant authorities in the organization it claims to be from."
+What is Smishing?,"Smishing is like phishing, but it happens through text messages on your phone instead of emails. Scammers send fake texts that look like they're from legitimate sources, like your bank or a delivery service. They try to trick you into clicking on links or giving away personal information, just like in email phishing. So, in simple terms, smishing is phishing through text messages."
+What is spear phishing?,"Spear phishing is a targeted form of phishing where cybercriminals customize their attacks for specific individuals or organizations. Instead of casting a wide net, like traditional phishing, spear phishing involves researching and tailoring messages to trick a particular person or group into revealing sensitive information, such as passwords or financial data."
+What is Vishing?,"Vishing is a type of scam where cybercriminals use phone calls (voice + phishing = vishing) to trick people into giving away personal information or money. They might pretend to be from a bank, government agency, or tech support, and try to scare or manipulate you into revealing sensitive details like passwords or credit card numbers."

@@ -1,0 +1,7 @@
+# ignore ALL files in ANY directory named temp
+chroma/
+
+# ignore .env
+.env
+
+
