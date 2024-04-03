@@ -29,6 +29,10 @@ import openai
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 def create_tutor(md_files, headers_to_split_on, persist_directory):
     # Read a markdown file
     document_txt = ""
