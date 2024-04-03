@@ -2,7 +2,10 @@ Date: 4/3/2024
 
 # data/Video_1_final_yjlee.md
 
-Copied the file from ../030624/
+1. Copied the file from ../030624/
+2. Use git to serve Streamlit Cloud app
+3. To get around sqlite3 chroma error, manually add chromadb and pysqlite3-binary to requirements.txt
+4. To get around sqlite3 chroma error, modify cybersecurity_mmr_tutor.py (see https://stackoverflow.com/questions/76958817/streamlit-your-system-has-an-unsupported-version-of-sqlite3-chroma-requires-sq)
 
 Date: 4/2/2024
 
